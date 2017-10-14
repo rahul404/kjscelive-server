@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ktamas77/firebase-php": "dev-master",
+        "paragraph1/php-fcm": "^0.7.0"
+    }
+}
